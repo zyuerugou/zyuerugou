@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=zyuerugou)](https://githubfast.com/anuraghazra/github-readme-stats)
 
 
-[![我的Github]](https://github-profile-trophy.vercel.app/?username=zyuerugou)](https://githubfast.com/ryo-ma/github-profile-trophy)
+[![我的Github](https://github-profile-trophy.vercel.app/?username=zyuerugou)](https://githubfast.com/ryo-ma/github-profile-trophy)
 
